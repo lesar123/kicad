@@ -1,4 +1,11 @@
-25212448397208207
+25217687404336685
+74HC138N_652
+DIP254P762X470-16
+
+
+0
+16
+16
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2652,6 +2659,13 @@ speaker CUI
 0
 2
 2
+CD4511BE
+DIP794W45P254L1969H508Q16
+
+
+0
+16
+16
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -94475,6 +94489,13 @@ Symbol
 WEEE-Logo_28.1x40mm_SilkScreen
 Waste Electrical and Electronic Equipment Directive
 Logo WEEE
+0
+0
+0
+TCM2209
+TCM2209_f
+
+
 0
 0
 0

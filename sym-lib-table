@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TCM2209")(type "KiCad")(uri "${KIPRJMOD}/TCM2209.kicad_sym")(options "")(descr ""))
+  (lib (name "screwConector")(type "KiCad")(uri "${KIPRJMOD}/screwConector.kicad_sym")(options "")(descr ""))
+)
